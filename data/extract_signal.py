@@ -142,7 +142,7 @@ def getHighLow(iData):
     return np.transpose(np.asarray(z))
 
 #fin = os.path.dirname(__file__) + "/data/c1on-rpi.txt"
-fin = os.path.dirname(__file__) + "/data/a_b_c_d_1onoff-rpi.sample"
+fin = os.path.dirname(__file__) + "../../data/a_b_c_d_1onoff-rpi.sample"
 lim = [0.0,5.0,-1,2]; # full frame
 #lim = [1.4219484973203969, 1.5945218092195486, -1.0, 2.0]
 #lim = [1.4,1.8,-1,2]; # four cycles

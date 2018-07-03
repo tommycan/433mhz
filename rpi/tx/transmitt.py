@@ -4,7 +4,7 @@ import os.path
 import RPi.GPIO as GPIO
 
 # Remote control signals
-signals = "remote_comtrol_signals.py"
+signals = os.path.dirname(__file__) + "../../data/remote_comtrol_signals.py"
 
 # Time Scale (milliseconds)
 TS = 1e-3; 
