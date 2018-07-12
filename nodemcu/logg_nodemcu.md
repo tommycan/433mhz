@@ -11,4 +11,6 @@
 # References
 [Arduino IDE Set-up](http://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/)<br>
 [NodeMCU Pinout](https://iotbytes.wordpress.com/nodemcu-pinout/)<br>
-[Running NodeMCU on a Battery](https://tinker.yeoman.com.au/2016/05/29/running-nodemcu-on-a-battery-esp8266-low-power-consumption-revisited/)
+[Arduino NodeMCU Pinout Mapping](https://github.com/esp8266/Arduino/blob/3e7b4b8e0cf4e1f7ad48104abfc42723b5e4f9be/variants/nodemcu/pins_arduino.h#L40)<br>
+[Running NodeMCU on a Battery](https://tinker.yeoman.com.au/2016/05/29/running-nodemcu-on-a-battery-esp8266-low-power-consumption-revisited/)<br>
+[Arduino Language Reference](https://www.arduino.cc/reference/en/)<br>
