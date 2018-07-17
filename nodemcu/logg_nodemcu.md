@@ -8,6 +8,10 @@
 | http://www.instructables.com/id/Using-an-ESP8266-to-Control-Mains-Sockets-Using-43/ | | 
 | http://www.instructables.com/id/NodeMCU-MQTT-Basic-Example/ | |
 
+| Project | Description |
+| :--- | :--- |
+| [Power switch variation study](../data/logg_variation_study.md) | |
+
 # References
 [Arduino IDE Set-up](http://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/)<br>
 [NodeMCU Pinout](https://iotbytes.wordpress.com/nodemcu-pinout/)<br>
