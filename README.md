@@ -38,7 +38,7 @@ Customize home assistant set-up
 | Automatic backup |  |
 | Node-RED | https://nodered.org/docs/hardware/raspberrypi <br> Install and use with Home Assistant &#10004; |
 | Grafana | https://snillevilla.se/snygg-statistik-i-home-assistant-med-grafana-och-influxdb/  &#10067; |
-| Telegraf | https://community.influxdata.com/t/raspberry-pi-installation-instructions/5515/3 |
+| Telegraf | https://community.influxdata.com/t/raspberry-pi-installation-instructions/5515/3 <br> https://www.influxdata.com/blog/tldr-influxdb-tech-tips-august-4-2016/|
 
 # Readlist
 | [Perfect Home Automation](https://www.home-assistant.io/blog/2016/01/19/perfect-home-automation/) | &#10004; |
